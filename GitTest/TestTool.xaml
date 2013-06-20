@@ -5,6 +5,7 @@
     <Grid>
         <Label Content="This is a new Label ..." HorizontalAlignment="Left" Height="40" Margin="63,39,0,0" VerticalAlignment="Top" Width="144"/>
         <Button Content="and a button" HorizontalAlignment="Left" Height="22" Margin="73,112,0,0" VerticalAlignment="Top" Width="106"/>
+        <Image HorizontalAlignment="Left" Height="98" Margin="73,166,0,0" VerticalAlignment="Top" Width="90" Source="download.jpg"/>
 
     </Grid>
 </Window>
