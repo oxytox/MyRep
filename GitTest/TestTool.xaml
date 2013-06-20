@@ -1,0 +1,12 @@
+﻿<Window x:Class="GitTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="This is a new Label ..." HorizontalAlignment="Left" Height="40" Margin="63,39,0,0" VerticalAlignment="Top" Width="144"/>
+        <Button Content="and a button" HorizontalAlignment="Left" Height="22" Margin="73,112,0,0" VerticalAlignment="Top" Width="106"/>
+        <Image HorizontalAlignment="Left" Height="98" Margin="73,166,0,0" VerticalAlignment="Top" Width="90" Source="download.jpg"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Height="19" Margin="287,182,0,0" VerticalAlignment="Top" Width="147"/>
+
+    </Grid>
+</Window>
